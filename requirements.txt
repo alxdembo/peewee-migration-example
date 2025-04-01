@@ -1,0 +1,4 @@
+peewee
+peewee-migrate
+python-dotenv
+psycopg2-binary
